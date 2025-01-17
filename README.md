@@ -2,7 +2,6 @@
 
 A passionate developer from India🌏
 
-<img src="https://user-images.githubusercontent.com/your-image-link" alt="Profile Illustration" width="300"/>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ---
