@@ -73,7 +73,6 @@ Feel free to explore my repositories to follow along on my coding journey and ch
 
 ### 📊 GitHub Stats:
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&layout=compact" alt="Most Used Languages"/>
 </p>
