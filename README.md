@@ -58,8 +58,9 @@ Feel free to explore my repositories to follow along on my coding journey and ch
 <br>
 <div align="center">
   <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamSharma731&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Shivam's GitHub Stats" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSharma731&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Shivam's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjawal-Arora&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Ujjawal's GitHub Stats" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal-Arora&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Ujjwal's GitHub Stats" />
 </div>
 
 
