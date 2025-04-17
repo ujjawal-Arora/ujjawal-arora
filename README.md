@@ -1,6 +1,7 @@
 # Hi 👋, I'm Ujjawal
 
 💻 I'm a web developer with a strong passion for building dynamic and user-friendly web applications using the MERN stack
+
 Always curious and eager to learn, I'm currently diving deeper into Data Structures and Algorithms with Java to enhance my problem-solving skills and develop scalable, high-performance solutions.
 Feel free to explore my repositories to follow along on my coding journey and check out the projects I've been working on!
 
@@ -11,7 +12,7 @@ Feel free to explore my repositories to follow along on my coding journey and ch
 ### 🌱 About Me:
 - 🌱 I’m currently mastering **Full Stack Development**
 - 🚀 All of my projects are available at [GitHub](https://github.com/ujjawal-Arora)
-- 💬 Ask me about **Java, Full Stack Development, MERN Stack, Flutter**
+- 💬 Ask me about **Java, Full Stack Development, MERN Stack **
 - 📫 How to reach me: **ujjawal.arora2004@gmail.com**
 
 ---
@@ -62,22 +63,10 @@ Feel free to explore my repositories to follow along on my coding journey and ch
   <img src="https://github-readme-stats.vercel.app/api?username=ujjawal-Arora&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Ujjawal's GitHub Stats" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal-Arora&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Ujjwal's GitHub Stats" />
 </div>
-
-
 ### 🏆 GitHub Trophies:
 <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub" alt="GitHub Trophies"/>
 </p>
-
----
-
-### 📊 GitHub Stats:
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dark&layout=compact" alt="Most Used Languages"/>
-</p>
-
----
 
 ### 🔥 My Badges:
 <p align="left">
