@@ -22,48 +22,112 @@ I'm a passionate full-stack developer with expertise in building robust and user
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <h3>Languages</h3>
-  <p>
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-  </p>
-  
-  <h3>Frontend</h3>
-  <p>
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55" />
-  </p>
-  
-  <h3>Backend & Database</h3>
-  <p>
-    <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="55" height="55" />
-  </p>
-  
-  <h3>Tools & Services</h3>
-  <p>
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55" />
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="55" height="55" />
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55" />
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55" />
-  </p>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" /></a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" /></a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" /></a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" /></a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" /></a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" /></a>
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /></a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" /></a>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="48" height="48" /></a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="48" height="48" /></a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="48" height="48" /></a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" /></a>
+      <br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="48" height="48" /></a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="48" height="48" /></a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" /></a>
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" /></a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" /></a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="48" height="48" /></a>
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="48" height="48" /></a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /></a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48" /></a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="48" height="48" /></a>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="48" height="48" /></a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" /></a>
+      <br>Git
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
@@ -79,17 +143,20 @@ I'm a passionate full-stack developer with expertise in building robust and user
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ujjawal-Arora&theme=darkhub&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ujjawal-Arora&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ## 🔥 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solver-Advanced-blue" alt="Problem Solver Badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" alt="Open Source Badge"/>
-  <img src="https://img.shields.io/badge/Deployment-CI/CD%20Expert-orange" alt="CI/CD Badge"/>
-  <img src="https://img.shields.io/badge/Commits-High%20Committer-brightgreen" alt="Commits Badge"/>
-  <img src="https://img.shields.io/badge/MultiLanguage-%E2%9C%85-brightgreen" alt="MultiLanguage Badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solver-Advanced-blue?style=for-the-badge" alt="Problem Solver Badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" alt="Open Source Badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-orange?style=for-the-badge" alt="Full Stack Badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Deployment-CI/CD%20Expert-orange?style=for-the-badge" alt="CI/CD Badge"/>
+  <img src="https://img.shields.io/badge/Code%20Quality-High%20Standards-brightgreen?style=for-the-badge" alt="Code Quality Badge"/>
+  <img src="https://img.shields.io/badge/MultiLanguage-Proficient-blue?style=for-the-badge" alt="MultiLanguage Badge"/>
 </p>
 
 ---
